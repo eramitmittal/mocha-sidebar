@@ -1,3 +1,11 @@
+0.20.17 (23.7.2018)
+===
+ - fix issue 120 by adding flag which shows error only once 
+0.20.14 (23.7.2018)
+===
+ - update mocha version
+ - add example test for typescript
+===
 0.20.12 (28.6.2018)
  - fix issue cannot show test suite name like "toString" #119
  - fix issue Unescaped regex characters in grep for test name #112, #118, #99

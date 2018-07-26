@@ -2,7 +2,7 @@
     "name": "vscode-mocha-sidebar",
     "displayName": "Mocha sidebar",
     "description": "Mocha side bar is the most complete extension for mocha testing, based on not maintained mocha extension , have fun :)",
-    "version": "0.20.12",
+    "version": "0.20.17",
     "publisher": "maty",
     "engines": {
         "vscode": "^0.10.1"
@@ -387,7 +387,7 @@
         "lodash.assign": "^4.2.0",
         "lodash.forin": "^4.4.0",
         "lodash.isobject": "^3.0.2",
-        "mocha": "^2.5.3",
+        "mocha": "^5.2.0",
         "nyc": "^11.7.3",
         "rimraf": "^2.6.2",
         "split-lines": "^1.1.0",
